@@ -8,7 +8,7 @@ namespace ASCII_Art
     {
         static void Main()
         {
-            // prints the string to the console
+            // prints the following strings to the console
             Console.WriteLine(" .-.");
             Console.WriteLine("(o o)");
             Console.WriteLine("| 0 |");
